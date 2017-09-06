@@ -39,7 +39,6 @@
                 android:text="Hello, Student"
                 android:layout_below="@+id/siblingConstraintLayout" />
 
-
         </RelativeLayout>
 
         <TextView
